@@ -24,6 +24,8 @@ Class will follow a familiar schedule (all times approximate):
 - **10:00am–11:30am**: Work time, send bugs to the screen for class debugging
 
 ---
+> <a href="https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0"><img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Fcf11c560-a360-4687-b481-7b86cdf76ab5&w=384&q=75" width="15" height="15" style="vertical-align: -4px;"></a> [Weekly Grid: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/os_abraar/blob/main/class_grid.md)
+
 
 ### Weekly Grid: Open Source Software in Practice (CS4387)
 
