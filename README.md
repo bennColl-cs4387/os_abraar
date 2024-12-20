@@ -17,8 +17,8 @@ Worked on an enhancement to show token usage per conversation. Explored backend 
 **Project: PyCaret: Issue #3011**  
 Collaborated with my group to resolve an issue where PyCaret’s `ExpandingWindowSplitter` misrepresented fold numbers in time series cross-validation. My contributions included debugging, testing dynamic fold calculations, and improving user-facing display summaries. This experience underscored the importance of effective teamwork and clear communication in resolving complex issues.
 
-**Progress Reports:** [Build From Source | Week 9](#)  
-**Group Documentation:** [Solution to PyCaret Issue #3011 (Group Fix)](#)
+***Progress Reports: [Build From Source](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-06/build_from_source.md) | [Week 9](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-09/group_fix_progress.md)  
+***Group Documentation: [Solution to PyCaret Issue #3011 (Group Fix)](https://github.com/bennColl-cs4387/sizar/blob/main/assignments/group-fix/pycaret-3011/pycaret_3011.md)
 
 ---
 
@@ -56,9 +56,5 @@ This course has been a roller coaster experience, teaching me the nuances of con
 
 ---
 
-# Additional Links
-
-- View my [GitHub Profile](https://github.com/bennColl-cs4387)
-- Connect with me on [LinkedIn](https://www.linkedin.com/)
 
 Despite the challenges, this journey has significantly enhanced my technical skills and commitment to open-source projects.
